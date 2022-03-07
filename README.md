@@ -14,11 +14,11 @@
     <a href="https://www.instagram.com/emirgencc_" target="_blank">
         <img width="40" src="https://www.logo.wine/a/logo/Instagram/Instagram-Logo.wine.svg" alt="My Instagram" /></a>
     <a href="https://www.linkedin.com/in/muhemir" target="_blank">
-        <img width="40" src="https://github.com/Muh-Emir/Muh-Emir/blob/main/icons/LinkedIn-Logo.svg" alt="My LinkedIn" /></a>
+        <img width="40" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" alt="My LinkedIn" /></a>
     <a href="https://twitter.com/MuhEmirGenc" target="_blank">
-        <img width="40" src="https://github.com/Muh-Emir/Muh-Emir/blob/main/icons/Twitter-Logo.svg" alt="My Twitter" /></a>
+        <img width="40" src="https://www.logo.wine/a/logo/Twitter/Twitter-Logo.wine.svg" alt="My Twitter" /></a>
     <a href="https://tr.pinterest.com/muhemir/_saved/" target="_blank">
-        <img width="40" src="https://github.com/Muh-Emir/Muh-Emir/blob/main/icons/Pinterest-Logo.svg" alt="My Pinterest" /></a>
+        <img width="40" src="https://www.logo.wine/a/logo/Pinterest/Pinterest-Icon-Logo.wine.svg" alt="My Pinterest" /></a>
 </p>
 
 
