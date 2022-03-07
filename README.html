@@ -57,7 +57,7 @@
             <img width="50%" src="https://github.com/Muh-Emir/Muh-Emir/blob/main/gifs/Develop.gif" /> </a>
         </p>
     -->
-    <p align="center" style="background-color: white;">
+<p align="center" style="background-color: white;">
         <a href="https://unity.com/" target="_blank"> <img src="https://api.iconify.design/fa6-brands/unity.svg?color=%23ffffff" alt="python" width="40" height="40" /> </a>
         <a href="https://dotnet.microsoft.com/en-us/learn/csharp" target="_blank"> <img src="https://api.iconify.design/logos:c-sharp.svg" alt="csharp" width="40" height="40" /> </a>
         <a href="https://www.sketchup.com/" target="_blank"  style="background-color: white;" > <img src="https://api.iconify.design/file-icons/sketchup-make.svg?color=%23ba3329" alt="Sketchup" width="30" height="30" /></a>
@@ -71,7 +71,7 @@
         <a href="https://firebase.google.com/" target="_blank"> <img src="https://api.iconify.design/logos/firebase.svg" alt="Firebase" width="40" height="40" /> </a>
         <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://api.iconify.design/vscode-icons/file-type-plsql.svg" width="50" height="50" /> </a>
         <a href="https://cloud.google.com" target="_blank"> <img src="https://api.iconify.design/logos:google-cloud.svg" alt="gcp" width="40" height="40" /> </a>
-    </p>
+</p>
 </details>
 
 
