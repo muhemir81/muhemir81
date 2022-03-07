@@ -12,7 +12,7 @@
 <!-- LOGOS: https://www.logo.wine/ fiver, freelancer, upwork, discord -->
 <p align="center">
     <a href="https://www.instagram.com/emirgencc_">
-        <img width="40px" src="https://github.com/Muh-Emir/Muh-Emir/blob/arslan/icons/Instagram-Logo.svg" alt="Arslan's Instagram" /></a>
+        <img width="40px" src="https://github.com/Muh-Emir/Muh-Emir/tree/main/icons/Instagram-Logo.svg" alt="Arslan's Instagram" /></a>
     <a href="https://www.linkedin.com/in/muhemir" target="_blank">
         <img width="40px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/LinkedIn-Logo.svg" alt="Arslan's LinkedIn" /></a>
     <a href="https://twitter.com/MuhEmirGenc" target="_blank">
