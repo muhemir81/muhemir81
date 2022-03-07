@@ -57,23 +57,6 @@
             <img width="50%" src="https://github.com/Muh-Emir/Muh-Emir/blob/main/gifs/Develop.gif" /> </a>
         </p>
     -->
-    <!--
-    
-        Unity+
-        SketchUp+
-        Gimp2+
-        Blender+
-        UnrealEngine+
-        C#+
-        Arduino+
-        GameMaker
-        Piskel
-        Photoshop
-        Firebase
-        SQL
-
-    
-    -->
 <p align="center">
     <a href="https://unity.com/" target="_blank"> <img src="https://api.iconify.design/logos/unity.svg" alt="python" width="40" height="40" /> </a>
     <a href="https://dotnet.microsoft.com/en-us/learn/csharp" target="_blank"> <img src="https://api.iconify.design/logos:c-sharp.svg" alt="csharp" width="40" height="40" /> </a>
