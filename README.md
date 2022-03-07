@@ -35,27 +35,22 @@
 
 
 <!--About-->
-<p align="left">
+<p align="center">
 <details>
- <summary> ✨ About </summary>
+ <summary align="center"> ✨ About </summary>
 
  ```yaml
 Muhammed Emir Genç
 Düzce, Türkiye
 ```
-
-</details> </p>
+</details>
+</p>
 
 
 
 <!--Languages and Tools https://iconify.design/ -->
-<details>
+<p align="center">
   <summary> 🛠️ Languages and Tools </summary> <br />
-  <!--
-  <p align="center">
-<a href="https://github.com/Muh-Emir">
-    <img width="50%" src="https://github.com/Muh-Emir/Muh-Emir/blob/main/gifs/Develop.gif" /> </a>
-</p>-->
   <p align="center">
     <a href="https://unity.com/" target="_blank"> <img src="https://api.iconify.design/fa6-brands/unity.svg?color=%23ffffff" alt="Unity" width="40" height="40" /> </a>
     <a href="https://dotnet.microsoft.com/en-us/learn/csharp" target="_blank"> <img src="https://api.iconify.design/logos:c-sharp.svg" alt="Csharp" width="40" height="40" /> </a>
@@ -83,24 +78,21 @@ Düzce, Türkiye
     <p align="center">
         <a href="https://www.arduino.cc//" target="_blank"> <img src="https://api.iconify.design/vscode-icons/file-type-arduino.svg" alt="Arduino" width="40" height="40" /> </a>
     </p>
-</details>
-
+</p>
 
 
 <!--Stats-->
-<p><details>
+<p align="center">
   <summary> 📊 Stats </summary><br />
     <p align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api?username=Muh-Emir&show_icons=true&theme=tokyonight" />
-<a href="https://github.com/arslanugur">
-    <img width="15%" src="https://github.com/arslanugur/arslanugur/blob/arslan/gifs/redrocket.gif" /></a>
-<img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=Muh-Emir&theme=tokyonight" />
-</details></p>
+        <a href="https://github.com/Muh-Emir/"> <img width="40%" src="https://github-readme-stats.vercel.app/api?username=Muh-Emir&show_icons=true&theme=tokyonight" /> </a>
+        <a href="https://github.com/Muh-Emir/"> <img src="https://api.iconify.design/fa6-brands/unity.svg?color=%23ffffff" alt="Unity" width="65" height="65" /></a>
+        <a href="https://github.com/Muh-Emir/"> <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=Muh-Emir&theme=tokyonight" /> </a>
+</p>
 
 <p align="center">
-    <a href="https://github.com/Muh-Emir/" target="_blank">
-  <img src="https://api.iconify.design/emojione-v1/video-game.svg" alt="GameLogo" width="70">
-</a></p>
+    <a href="https://github.com/Muh-Emir/" target="_blank"> <img src="https://api.iconify.design/emojione-v1/video-game.svg" alt="GameLogo" width="70"> </a>
+</p>
 
 
 
