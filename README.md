@@ -56,20 +56,28 @@ Düzce, Türkiye
 <a href="https://github.com/Muh-Emir">
     <img width="50%" src="https://github.com/Muh-Emir/Muh-Emir/blob/main/gifs/Develop.gif" /> </a>
 </p>-->
-  <p align="center" style="background-color: white;">
-      <a href="https://unity.com/" target="_blank"> <img src="https://api.iconify.design/fa6-brands/unity.svg?color=%23ffffff" alt="python" width="40" height="40" /> </a>
-      <a href="https://dotnet.microsoft.com/en-us/learn/csharp" target="_blank"> <img src="https://api.iconify.design/logos:c-sharp.svg" alt="csharp" width="40" height="40" /> </a>
-      <a href="https://www.sketchup.com/" target="_blank"> <img src="https://api.iconify.design/file-icons/sketchup-make.svg?color=%23ba3329" alt="Sketchup" width="40" height="40" /></a>
-      <a href="https://www.gimp.org/" target="_blank"> <img src="https://api.iconify.design/simple-icons/gimp.svg?color=%23ffffff" alt="Gimp2" width="40" height="40" /> </a>
-      <a href="https://www.blender.org/" target="_blank"> <img src="https://api.iconify.design/logos/blender.svg" alt="Blender" width="40" height="40" /> </a>
-      <a href="https://www.unrealengine.com/" target="_blank"> <img src="https://api.iconify.design/fontisto/unreal-engine.svg?color=%23ffffff" alt="UnrealEngine" width="40" height="40" /> </a>
-      <a href="https://www.arduino.cc//" target="_blank"> <img src="https://api.iconify.design/vscode-icons/file-type-arduino.svg" alt="Arduino" width="40" height="40" /> </a>
-      <a href="https://www.yoyogames.com/" target="_blank"> <img src="https://api.iconify.design/vscode-icons/file-type-gamemaker.svg" alt="GameMaker" width="40" height="40" /> </a>
-      <a href="https://www.piskelapp.com/" target="_blank"> <img src="https://api.iconify.design/carbon/gradient.svg?color=%23ffffff" alt="Piskel" width="40" height="40" /> </a>
-      <a href="https://www.adobe.com/tr/products/photoshop/" target="_blank"> <img src="https://api.iconify.design/vscode-icons/file-type-photoshop.svg" alt="Photoshop" width="40" height="40" /> </a>
+  <p align="center">
+    <a href="https://unity.com/" target="_blank"> <img src="https://api.iconify.design/fa6-brands/unity.svg?color=%23ffffff" alt="Unity" width="40" height="40" /> </a>
+    <a href="https://dotnet.microsoft.com/en-us/learn/csharp" target="_blank"> <img src="https://api.iconify.design/logos:c-sharp.svg" alt="Csharp" width="40" height="40" /> </a>
+    <a href="https://www.blender.org/" target="_blank"> <img src="https://api.iconify.design/logos/blender.svg" alt="Blender" width="40" height="40" /> </a>
+    <a href="https://www.adobe.com/tr/products/photoshop/" target="_blank"> <img src="https://api.iconify.design/vscode-icons/file-type-photoshop.svg" alt="Photoshop" width="40" height="40" /> </a>
+  </p>
+    <p align="center">
+        <a href="https://www.unrealengine.com/" target="_blank"> <img src="https://api.iconify.design/fontisto/unreal-engine.svg?color=%23ffffff" alt="UnrealEngine" width="40" height="40" /> </a>
+        <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://api.iconify.design/logos:c-plusplus.svg" alt="cplusplus" width="40" height="40"/> </a>
+        <a href="https://www.sketchup.com/" target="_blank"> <img src="https://api.iconify.design/file-icons/sketchup-make.svg?color=%23ba3329" alt="Sketchup" width="40" height="40" /></a>
+        <a href="https://www.gimp.org/" target="_blank"> <img src="https://api.iconify.design/simple-icons/gimp.svg?color=%23ffffff" alt="Gimp2" width="40" height="40" /> </a>
+    </p>
+  <p align="center">
+      <a href="https://play.google.com/" target="_blank"> <img src="https://www.logo.wine/a/logo/Google_Play/Google_Play-Icon-Logo.wine.svg" alt="Unity" width="40" height="40" /> </a>
       <a href="https://firebase.google.com/" target="_blank"> <img src="https://api.iconify.design/logos/firebase.svg" alt="Firebase" width="40" height="40" /> </a>
+      <a href="https://cloud.google.com" target="_blank"> <img src="https://api.iconify.design/logos:google-cloud.svg" alt="GoogleApis" width="40" height="40" /> </a>
       <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://api.iconify.design/vscode-icons/file-type-plsql.svg" width="40" height="40" /> </a>
-      <a href="https://cloud.google.com" target="_blank"> <img src="https://api.iconify.design/logos:google-cloud.svg" alt="gcp" width="40" height="40" /> </a>
+    </p>
+   <p align="center">
+        <a href="https://www.piskelapp.com/" target="_blank"> <img src="https://api.iconify.design/carbon/gradient.svg?color=%23ffffff" alt="Piskel" width="40" height="40" /> </a>
+      <a href="https://www.yoyogames.com/" target="_blank"> <img src="https://api.iconify.design/vscode-icons/file-type-gamemaker.svg" alt="GameMaker" width="40" height="40" /> </a>
+    <a href="https://www.arduino.cc//" target="_blank"> <img src="https://api.iconify.design/vscode-icons/file-type-arduino.svg" alt="Arduino" width="40" height="40" /> </a>
     </p>
 </details>
 
@@ -79,20 +87,11 @@ Düzce, Türkiye
 <p><details>
   <summary> 📊 Stats </summary><br />
     <p align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api?username=arslanugur&show_icons=true&theme=tokyonight" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api?username=Muh-Emir&show_icons=true&theme=tokyonight" />
 <a href="https://github.com/arslanugur">
     <img width="15%" src="https://github.com/arslanugur/arslanugur/blob/arslan/gifs/redrocket.gif" /></a>
-<img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=arslanugur&theme=tokyonight" />
+<img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=Muh-Emir&theme=tokyonight" />
 </details></p>
-
-<!-- Spotify 
-<p align="center">
-    <a href="https://open.spotify.com/playlist/4F63lVsqsa7xa9rGdLLRb4?si=TGLCuEyWTFiTKxkRnzVh9g&utm_source=copy-link">
-        <img width="130" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/Spotify-Logo.svg" />
-</a><br />
-    <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=11139457861&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=11139457861&cover_image=true&theme=novatorem&bar_color=ff0000&bar_color_cover=false">
-  </a></p>-->
 
 <p align="center">
     <a href="https://github.com/Muh-Emir/" target="_blank">
