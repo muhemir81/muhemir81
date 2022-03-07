@@ -27,11 +27,10 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/Muh-Emir/TetrisRun" target="_blank"> <img src="https://api.iconify.design/logos/unity.svg" alt="Unity" width="20px" /></a>
-    <a href="https://github.com/arslanugur/py" target="_blank"> <img src="https://api.iconify.design/logos:python.svg" alt="Python" width="20" height="20"/> </a>
-    <a href="https://github.com/arslanugur/projects/tree/master/German%20101" target="_blank"> <img src="https://api.iconify.design/emojione:flag-for-germany.svg" alt="German" width="20px" /></a>
-    <a href="https://github.com/arslanugur/projects/tree/master/Russian%20101" target="_blank"> <img src="https://api.iconify.design/emojione:flag-for-russia.svg" alt="Russian" width="20" height="20"/> </a>
-    <a href="https://github.com/arslanugur/cpp" target="_blank"> <img src="https://api.iconify.design/logos:c-plusplus.svg" alt="cpp" width="20" height="20"/> </a>
+    <a href="https://unity.com/" target="_blank"> <img src="https://api.iconify.design/fa6-brands/unity.svg" alt="Unity" width="40" /></a>
+    <a href="https://github.com/Muh-Emir/TetrisRun" target="_blank"> <img src="https://api.iconify.design/logos/c-sharp.svg" alt="CSharp" width="40" height="40" /> </a>
+    <a href="https://www.blender.org/" target="_blank"> <img src="https://api.iconify.design/logos/blender.svg" alt="Blender" width="20" height="40" /> </a>
+    <a href="https://github.com/Muh-Emir/TetrisRun" target="_blank"> <img src="https://api.iconify.design/emojione-v1/video-game.svg" alt="GameProject" width="40" /></a>
 </p>
 
 
