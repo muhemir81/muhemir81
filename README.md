@@ -76,9 +76,9 @@ Düzce, Türkiye
     </p>
    <p align="center">
        <a href="https://www.cryengine.com/" target="_blank"> <img src="https://api.iconify.design/simple-icons/cryengine.svg?color=%23ffffff" alt="CryEngine" width="40" height="40" /> </a>
-       <a href="https://www.yoyogames.com/" target="_blank"> <img src="https://api.iconify.design/file-icons/3ds-max.svg?color=%233FA7E3" alt="3DSMax" width="40" height="40" /> </a>
        <a href="https://www.yoyogames.com/" target="_blank"> <img src="https://api.iconify.design/vscode-icons/file-type-gamemaker.svg" alt="GameMaker" width="40" height="40" /> </a>
-        <a href="https://www.piskelapp.com/" target="_blank"> <img src="https://api.iconify.design/carbon/gradient.svg?color=%23ffffff" alt="Piskel" width="40" height="40" /> </a>
+       <a href="https://www.autodesk.com.tr/products/3ds-max/" target="_blank"> <img src="https://api.iconify.design/file-icons/3ds-max.svg?color=%233FA7E3" alt="3DSMax" width="40" height="40" /> </a>
+        <a href="https://www.piskelapp.com/" target="_blank"> <img src="https://api.iconify.design/carbon/gradient.svg?color=%2330D8FD" alt="Piskel" width="40" height="40" /> </a>
     </p>
     <p align="center">
         <a href="https://www.arduino.cc//" target="_blank"> <img src="https://api.iconify.design/vscode-icons/file-type-arduino.svg" alt="Arduino" width="40" height="40" /> </a>
