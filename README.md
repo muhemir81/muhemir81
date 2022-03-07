@@ -66,7 +66,7 @@ Düzce, Türkiye
         <a href="https://www.unrealengine.com/" target="_blank"> <img src="https://api.iconify.design/fontisto/unreal-engine.svg?color=%23ffffff" alt="UnrealEngine" width="40" height="40" /> </a>
         <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://api.iconify.design/logos:c-plusplus.svg" alt="cplusplus" width="40" height="40"/> </a>
         <a href="https://www.sketchup.com/" target="_blank"> <img src="https://api.iconify.design/file-icons/sketchup-make.svg?color=%23ba3329" alt="Sketchup" width="40" height="40" /></a>
-        <a href="https://www.gimp.org/" target="_blank"> <img src="https://api.iconify.design/simple-icons/gimp.svg?color=%23ffffff" alt="Gimp2" width="40" height="40" /> </a>
+        <a href="https://www.gimp.org/" target="_blank"> <img src="https://www.logo.wine/a/logo/GIMP/GIMP-Logo.wine.svg" alt="Gimp2" width="40" height="40" /> </a>
     </p>
   <p align="center">
       <a href="https://play.google.com/" target="_blank"> <img src="https://www.logo.wine/a/logo/Google_Play/Google_Play-Icon-Logo.wine.svg" alt="Unity" width="40" height="40" /> </a>
@@ -75,9 +75,13 @@ Düzce, Türkiye
       <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://api.iconify.design/vscode-icons/file-type-plsql.svg" width="40" height="40" /> </a>
     </p>
    <p align="center">
+       <a href="https://www.cryengine.com/" target="_blank"> <img src="https://api.iconify.design/simple-icons/cryengine.svg?color=%23ffffff" alt="CryEngine" width="40" height="40" /> </a>
+       <a href="https://www.yoyogames.com/" target="_blank"> <img src="https://api.iconify.design/file-icons/3ds-max.svg?color=%233FA7E3" alt="3DSMax" width="40" height="40" /> </a>
+       <a href="https://www.yoyogames.com/" target="_blank"> <img src="https://api.iconify.design/vscode-icons/file-type-gamemaker.svg" alt="GameMaker" width="40" height="40" /> </a>
         <a href="https://www.piskelapp.com/" target="_blank"> <img src="https://api.iconify.design/carbon/gradient.svg?color=%23ffffff" alt="Piskel" width="40" height="40" /> </a>
-      <a href="https://www.yoyogames.com/" target="_blank"> <img src="https://api.iconify.design/vscode-icons/file-type-gamemaker.svg" alt="GameMaker" width="40" height="40" /> </a>
-    <a href="https://www.arduino.cc//" target="_blank"> <img src="https://api.iconify.design/vscode-icons/file-type-arduino.svg" alt="Arduino" width="40" height="40" /> </a>
+    </p>
+    <p align="center">
+        <a href="https://www.arduino.cc//" target="_blank"> <img src="https://api.iconify.design/vscode-icons/file-type-arduino.svg" alt="Arduino" width="40" height="40" /> </a>
     </p>
 </details>
 
