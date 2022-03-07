@@ -60,11 +60,8 @@
     <p align="center" style="background-color: white;">
         <a href="https://unity.com/" target="_blank"> <img src="https://api.iconify.design/fa6-brands/unity.svg?color=%23ffffff" alt="python" width="40" height="40" /> </a>
         <a href="https://dotnet.microsoft.com/en-us/learn/csharp" target="_blank"> <img src="https://api.iconify.design/logos:c-sharp.svg" alt="csharp" width="40" height="40" /> </a>
-        
-        <a style="background-color: white;" width="40" height="40" >
-            <a href="https://www.sketchup.com/" target="_blank">
+        <a href="https://www.sketchup.com/" target="_blank" style="background-color: white;" width="40" height="40" >
                 <img src="https://api.iconify.design/file-icons/sketchup-make.svg?color=%23ba3329" alt="Sketchup" width="40" height="40" />
-            </a>
         </a>
         <a href="https://www.gimp.org/" target="_blank"> <img src="https://api.iconify.design/simple-icons/gimp.svg?color=%234A4A4A" alt="Gimp2" width="40" height="40" /> </a>
         <a href="https://www.blender.org/" target="_blank"> <img src="https://api.iconify.design/logos/blender.svg" alt="Blender" width="40" height="40" /> </a>
