@@ -1,26 +1,21 @@
 <!-- <h2 align="center"> <b> Hi! </b> <img src="https://github.com/arslanugur/arslanugur/blob/arslan/wave.gif" width="35px"> </h2> -->
 
 <p align="left">
-<a href="https://github.com/arslanugur/arslanugur">
-    <img src="https://komarev.com/ghpvc/?username=arslanugur" alt="Visitors" />   
-</a>
-<a href="https://www.buymeacoffee.com/arslanugur" target="_blank">
-  <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="110" >
+<a href="https://github.com/Muh-Emir/Muh-Emir">
+    <img src="https://komarev.com/ghpvc/?username=Muh-Emir" alt="Visitors" />   
 </a>
 </p>
 
-[![Header](https://github.com/arslanugur/arslanugur/blob/arslan/readme_header.gif)](http://linkedin.com/in/-ugurarslan-)
+[![Header](https://github.com/arslanugur/arslanugur/blob/arslan/readme_header.gif)](https://www.linkedin.com/in/muhemir)
 
 
 <!-- LOGOS: https://www.logo.wine/ fiver, freelancer, upwork, discord -->
 <p align="center">
-    <a href="https://instagram.com/arslanuguur">
-        <img width="40px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/Instagram-Logo.svg" alt="Arslan's Instagram" /></a>
-    <a href="https://chat.whatsapp.com/Bdek4AunrnCHzZrJOyyaUT" target="_blank">
-        <img width="40px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/WhatsApp-Logo.svg" alt="Arslan's Whatsapp" /></a>
-    <a href="https://www.linkedin.com/in/-ugurarslan-" target="_blank">
+    <a href="https://www.instagram.com/emirgencc_">
+        <img width="40px" src="https://github.com/Muh-Emir/Muh-Emir/blob/arslan/icons/Instagram-Logo.svg" alt="Arslan's Instagram" /></a>
+    <a href="https://www.linkedin.com/in/muhemir" target="_blank">
         <img width="40px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/LinkedIn-Logo.svg" alt="Arslan's LinkedIn" /></a>
-    <a href="https://twitter.com/arslanuguur" target="_blank">
+    <a href="https://twitter.com/MuhEmirGenc" target="_blank">
         <img width="40px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/Twitter-Logo.svg" alt="Arslan's Twitter" /></a>
     <a href="https://www.youtube.com/channel/UChXfUMbl4e5aR0dY5zITLoQ" target="_blank">
         <img width="40px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/Youtube-Logo.svg" alt="Arslan's Youtube" /></a>
