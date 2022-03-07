@@ -85,18 +85,18 @@ Düzce, Türkiye
 <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=arslanugur&theme=tokyonight" />
 </details></p>
 
-<!-- Spotify -->
+<!-- Spotify 
 <p align="center">
     <a href="https://open.spotify.com/playlist/4F63lVsqsa7xa9rGdLLRb4?si=TGLCuEyWTFiTKxkRnzVh9g&utm_source=copy-link">
-        <img width="130px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/Spotify-Logo.svg" />
+        <img width="130" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/Spotify-Logo.svg" />
 </a><br />
     <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=11139457861&redirect=true">
     <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=11139457861&cover_image=true&theme=novatorem&bar_color=ff0000&bar_color_cover=false">
-  </a></p>
+  </a></p>-->
 
 <p align="center">
-    <a href="https://github.com/arslanugur" target="_blank">
-  <img src="https://github.com/arslanugur/arslanugur/blob/arslan/QR.jpg" alt="QR-Code" width="70">
+    <a href="https://github.com/Muh-Emir/" target="_blank">
+  <img src="https://api.iconify.design/emojione-v1/video-game.svg" alt="GameLogo" width="70">
 </a></p>
 
 
