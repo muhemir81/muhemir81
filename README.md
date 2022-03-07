@@ -27,12 +27,7 @@
 </p>
 
 <p align="center">
-    <a href="https://unity.com/" target="_blank"> <img src="https://api.iconify.design/fa6-brands/unity.svg" alt="Unity" width="40" />
-    <style>
-        a:link {
-            color: green;
-        } 
-        </style></a>
+    <a style="background-color: DodgerBlue;" href="https://unity.com/" target="_blank"> <img src="https://api.iconify.design/fa6-brands/unity.svg" alt="Unity" width="40" /></a>
     <a href="https://github.com/Muh-Emir/TetrisRun" target="_blank"> <img src="https://api.iconify.design/logos/c-sharp.svg" alt="CSharp" width="40" height="40" /> </a>
     <a href="https://www.blender.org/" target="_blank"> <img src="https://api.iconify.design/logos/blender.svg" alt="Blender" width="40" height="40" /> </a>
     <a href="https://github.com/Muh-Emir/TetrisRun" target="_blank"> <img src="https://api.iconify.design/emojione-v1/video-game.svg" alt="GameProject" width="40" /></a>
