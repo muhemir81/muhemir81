@@ -69,7 +69,7 @@
                                                      <a href="https://www.piskelapp.com/" target="_blank"> <img src="https://api.iconify.design/carbon/gradient.svg" alt="Piskel" width="40" height="40" /> </a>
                                                      <a href="https://www.adobe.com/tr/products/photoshop/" target="_blank"> <img src="https://api.iconify.design/vscode-icons/file-type-photoshop.svg" alt="Photoshop" width="40" height="40" /> </a>
                                                      <a href="https://firebase.google.com/" target="_blank"> <img src="https://api.iconify.design/logos/firebase.svg" alt="Firebase" width="40" height="40" /> </a>
-                                                     <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="50" height="50" /> </a>
+                                                     <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://api.iconify.design/ant-design/console-sql-outlined.svg" width="50" height="50" /> </a>
                                                      <a href="https://cloud.google.com" target="_blank"> <img src="https://api.iconify.design/logos:google-cloud.svg" alt="gcp" width="40" height="40" /> </a>
                                                  </p>
 </details>
