@@ -12,23 +12,13 @@
 <!-- LOGOS: https://www.logo.wine/ fiver, freelancer, upwork, discord -->
 <p align="center">
     <a href="https://www.instagram.com/emirgencc_">
-        <img width="40px" src="https://github.com/Muh-Emir/Muh-Emir/blob/main/icons/Instagram-Logo.svg" alt="Arslan's Instagram" /></a>
+        <img width="40px" src="https://github.com/Muh-Emir/Muh-Emir/blob/main/icons/Instagram-Logo.svg" alt="My Instagram" /></a>
     <a href="https://www.linkedin.com/in/muhemir" target="_blank">
-        <img width="40px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/LinkedIn-Logo.svg" alt="Arslan's LinkedIn" /></a>
+        <img width="40px" src="https://github.com/Muh-Emir/Muh-Emir/blob/main/icons/LinkedIn-Logo.svg" alt="My LinkedIn" /></a>
     <a href="https://twitter.com/MuhEmirGenc" target="_blank">
-        <img width="40px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/Twitter-Logo.svg" alt="Arslan's Twitter" /></a>
-    <a href="https://www.youtube.com/channel/UChXfUMbl4e5aR0dY5zITLoQ" target="_blank">
-        <img width="40px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/Youtube-Logo.svg" alt="Arslan's Youtube" /></a>
-    <a href="https://tr.pinterest.com/arslanuguur/_saved/" target="_blank">
-        <img width="40px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/Pinterest-Logo.svg" alt="Arslan's Pinterest" /></a>
-    <a href="https://stackoverflow.com/users/10667473" target="_blank">
-        <img width="40px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/StackOverflow-Logo.svg" alt="Arslan's StackOverFlow" /></a>
-    <a href="https://www.reddit.com/user/arslanugr/" target="_blank">
-        <img width="40px" src="https://github.com/arslanugur/arslanugur/blob/arslan/icons/Reddit-Logo.svg" alt="Arslan's Reddit" /></a>
-    <a href="https://medium.com/@arslanugur" target="_blank">
-        <img width="25px" src="https://api.iconify.design/ant-design:medium-circle-filled.svg" alt="Arslan's Medium" /></a>
-    <a href="https://dev.to/arslanugur" target="_blank">
-        <img width="25px" src="https://api.iconify.design/ic:round-logo-dev.svg" alt="arslanugur"  /></a>
+        <img width="40px" src="https://github.com/Muh-Emir/Muh-Emir/blob/main/icons/Twitter-Logo.svg" alt="My Twitter" /></a>
+    <a href="https://tr.pinterest.com/muhemir/_saved/" target="_blank">
+        <img width="40px" src="https://github.com/Muh-Emir/Muh-Emir/blob/main/icons/Pinterest-Logo.svg" alt="My Pinterest" /></a>
 </p>
 
 
@@ -37,7 +27,7 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/arslanugur/projects/tree/master/English%20101" target="_blank"> <img src="https://api.iconify.design/emojione:flag-for-united-kingdom.svg" alt="English" width="20px" /></a>
+    <a href="https://github.com/Muh-Emir/TetrisRun" target="_blank"> <img src="https://api.iconify.design/logos/unity.svg" alt="Unity" width="20px" /></a>
     <a href="https://github.com/arslanugur/py" target="_blank"> <img src="https://api.iconify.design/logos:python.svg" alt="Python" width="20" height="20"/> </a>
     <a href="https://github.com/arslanugur/projects/tree/master/German%20101" target="_blank"> <img src="https://api.iconify.design/emojione:flag-for-germany.svg" alt="German" width="20px" /></a>
     <a href="https://github.com/arslanugur/projects/tree/master/Russian%20101" target="_blank"> <img src="https://api.iconify.design/emojione:flag-for-russia.svg" alt="Russian" width="20" height="20"/> </a>
