@@ -11,8 +11,8 @@
 
 <!-- LOGOS: https://www.logo.wine/ fiver, freelancer, upwork, discord -->
 <p align="center">
-    <a href="https://www.instagram.com/emirgencc_">
-        <img width="40" src="https://github.com/Muh-Emir/Muh-Emir/blob/main/icons/Instagram-Logo.svg" alt="My Instagram" /></a>
+    <a href="https://www.instagram.com/emirgencc_" target="_blank">
+        <img width="40" src="https://www.logo.wine/a/logo/Instagram/Instagram-Logo.wine.svg" alt="My Instagram" /></a>
     <a href="https://www.linkedin.com/in/muhemir" target="_blank">
         <img width="40" src="https://github.com/Muh-Emir/Muh-Emir/blob/main/icons/LinkedIn-Logo.svg" alt="My LinkedIn" /></a>
     <a href="https://twitter.com/MuhEmirGenc" target="_blank">
