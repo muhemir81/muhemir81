@@ -9,7 +9,6 @@
 [![Header](https://github.com/Muh-Emir/Muh-Emir/blob/main/dino_rounded.gif)](https://www.linkedin.com/in/muhemir)
 
 
-<!-- LOGOS: https://www.logo.wine/ fiver, freelancer, upwork, discord -->
 <p align="center">
     <a href="https://www.instagram.com/emirgencc_" target="_blank">
         <img width="40" src="https://www.logo.wine/a/logo/Instagram/Instagram-Logo.wine.svg" alt="My Instagram" /></a>
@@ -27,10 +26,15 @@
 </p>
 
 <p align="center">
+    <img src="https://api.iconify.design/ci/dot-05-xl.svg?color=%230D1117" alt="Unity" width="40" height="40" />
     <a href="https://unity.com/" target="_blank"> <img src="https://api.iconify.design/fa6-brands/unity.svg?color=%23ffffff" alt="python" width="40" height="40" /> </a>
+    <img src="https://api.iconify.design/ci/dot-05-xl.svg?color=%230D1117" alt="Unity" width="40" height="40" />
     <a href="https://dotnet.microsoft.com/en-us/learn/csharp" target="_blank"> <img src="https://api.iconify.design/logos:c-sharp.svg" alt="csharp" width="40" height="40" /> </a>
+    <img src="https://api.iconify.design/ci/dot-05-xl.svg?color=%230D1117" alt="Unity" width="40" height="40" />
     <a href="https://www.blender.org/" target="_blank"> <img src="https://api.iconify.design/logos/blender.svg" alt="Blender" width="40" height="40" /> </a>
+    <img src="https://api.iconify.design/ci/dot-05-xl.svg?color=%230D1117" alt="Unity" width="40" height="40" />
     <a href="https://github.com/Muh-Emir/TetrisRun" target="_blank"> <img src="https://api.iconify.design/emojione-v1/video-game.svg" alt="GameProject" width="40" /></a>
+    <img src="https://api.iconify.design/ci/dot-05-xl.svg?color=%230D1117" alt="Unity" width="40" height="40" />
 </p>
 
 
